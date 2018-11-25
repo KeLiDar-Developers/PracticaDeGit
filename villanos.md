@@ -1,5 +1,4 @@
 #Villanos
 
-*Dr. doom
-*Red Skull
-*Capitán America
+* Dr. doom
+* Red Skull
